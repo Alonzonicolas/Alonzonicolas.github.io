@@ -1,0 +1,19 @@
+body {
+    background-image: url("../images/space.jpg");
+    background-color: transparent;
+    color: aliceblue;
+  }
+
+  #profile {
+    width: 32px;
+  }
+
+  h1 {
+    color: aliceblue;
+    font-size: 100px;
+  }
+
+  #descripcion, #contacto, #habilidades, #educacion, #idiomas {
+    display: none;
+  }
+
