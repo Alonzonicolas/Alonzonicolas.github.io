@@ -1,0 +1,45 @@
+{
+    "name": "John Doe",
+    "summary": "I am a programmer with experience in developing web and mobile applications. I enjoy working in teams and learning new things. I am a responsible and committed person in my work.",
+    "skills": [
+      "Web application development with HTML, CSS, JavaScript and frameworks such as React and Angular",
+      "Mobile application development with Android and React Native",
+      "Programming in languages such as Java, Python, and C++",
+      "Use of SQL and NoSQL databases such as MySQL, MongoDB, and Firebase",
+      "Teamwork with tools such as Git and Jira",
+      "Design and layout of user interfaces with tools such as Sketch and Figma"
+    ],
+    "education": [
+      {
+        "institution": "National University",
+        "degree": "Systems Engineering",
+        "start_date": "2014",
+        "end_date": "2019",
+        "description": "University studies in the systems area, focused on programming and software development."
+      },
+      {
+        "institution": "Coursera",
+        "degree": "Machine Learning",
+        "start_date": "2020",
+        "end_date": "2021",
+        "description": "Online course on machine learning, focusing on classification and regression algorithms."
+      }
+    ],
+    "experience": [
+      {
+        "position": "Web Developer",
+        "company": "ACME Inc.",
+        "start_date": "2019",
+        "end_date": "2021",
+        "description": "Development of web applications for the company's clients, using technologies such as HTML, CSS, JavaScript, React, and Firebase. Teamwork with designers and other developers."
+      },
+      {
+        "position": "Mobile Developer",
+        "company": "XYZ Corp.",
+        "start_date": "2021",
+        "end_date": "",
+        "description": "Development of mobile applications for Android and iOS, using React Native and Firebase. Teamwork with designers and other developers."
+      }
+    ]
+  }
+      
