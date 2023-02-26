@@ -22,3 +22,6 @@ body {
     flex-wrap: wrap;
   }
 
+#profile {
+  display: inline;
+}

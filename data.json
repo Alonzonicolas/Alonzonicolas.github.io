@@ -1,6 +1,28 @@
 {
-    "name": "John Doe",
-    "summary": "I am a programmer with experience in developing web and mobile applications. I enjoy working in teams and learning new things. I am a responsible and committed person in my work.",
+  "name": {
+    "title": "Miss",
+    "first": "Clarence",
+    "last": "Nichols"
+  },
+  "title": "Full Stack Developer",
+  "location": {
+    "street": {
+      "number": 8929,
+      "name": "Valwood Pkwy"
+    },
+    "city": "Billings",
+        "state": "Michigan",
+        "country": "United States",
+        "postcode": "63104"
+  },
+  "email": "clarence.nichols@example.com",
+  "phone": "(272) 790-0888",
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/75.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+  },
+  "summary": "I am a programmer with experience in developing web and mobile applications. I enjoy working in teams and learning new things. I am a responsible and committed person in my work.",
     "skills": [
       "Web application development with HTML, CSS, JavaScript and frameworks such as React and Angular",
       "Mobile application development with Android and React Native",
@@ -40,6 +62,20 @@
         "end_date": "",
         "description": "Development of mobile applications for Android and iOS, using React Native and Firebase. Teamwork with designers and other developers."
       }
+    ],
+    "languages": [
+      "Spanish",
+      "German",
+      "Portuguese"
+    ],
+    "about_me": [
+      "Hello, my name is Clarence Nichols, and I am a programmer with experience in developing web and mobile applications. My interest in programming started at a young age, and it has grown into a passion that has driven me to learn new technologies and develop creative solutions for various challenges.",
+      "In terms of my experience, I have worked on several projects, both individually and as part of a team. I have developed web applications using HTML, CSS, JavaScript, and popular frameworks such as React and Angular. I have also worked on mobile applications for Android and iOS, using React Native and Firebase. In addition, I have experience in programming in languages such as Java, Python, and C++.",
+      "One of my strengths is my ability to work well with others. I have collaborated with designers, project managers, and other developers to create products that meet the needs of our clients. I believe that effective communication and teamwork are essential for success in any project.",
+      "I am a responsible and committed person in my work. I pay attention to detail and strive for excellence in everything that I do. I also enjoy learning new things and staying up-to-date with the latest technologies and trends in the industry.",
+      "In terms of my education, I studied Systems Engineering at the National University, where I gained a solid foundation in programming and software development. I also completed an online course on machine learning through Coursera, which focused on classification and regression algorithms.",
+      "In my free time, I enjoy working on personal programming projects and participating in online programming communities. I also enjoy playing video games and watching movies.",
+      "Overall, I am a dedicated and skilled programmer who is always looking for new challenges and opportunities to grow. I believe that my experience, skills, and passion for programming make me a valuable asset to any team."
     ]
   }
       
