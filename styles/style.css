@@ -25,3 +25,42 @@ body {
 #profile {
   display: inline;
 }
+
+.card {
+  background-color: transparent;
+  box-sizing: content-box;
+  width: 30rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.card a {
+  text-decoration: none;
+}
+
+#portfolio {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 2rem;
+  row-gap: 6rem;
+  justify-content: space-evenly;
+  margin: 4rem;
+}
+
+.card-image {
+  margin-bottom: 1rem;
+  width: 100%;
+  border-radius: 5px;
+  border: solid 1px rgb(150, 220, 248);
+}
+
+.card:hover {
+  width: 32rem;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}

@@ -76,6 +76,38 @@
       "In terms of my education, I studied Systems Engineering at the National University, where I gained a solid foundation in programming and software development. I also completed an online course on machine learning through Coursera, which focused on classification and regression algorithms.",
       "In my free time, I enjoy working on personal programming projects and participating in online programming communities. I also enjoy playing video games and watching movies.",
       "Overall, I am a dedicated and skilled programmer who is always looking for new challenges and opportunities to grow. I believe that my experience, skills, and passion for programming make me a valuable asset to any team."
+    ],
+    "portfolio": [
+      {
+        "title": "Web Site Example",
+        "img": "https://cdn.pixabay.com/photo/2023/01/29/06/48/icons-7752534_1280.jpg",
+        "link": "https://github.com/"
+      },
+      {
+        "title": "App Example",
+        "img": "https://cdn.pixabay.com/photo/2017/12/22/05/57/finger-3033058_1280.jpg",
+        "link": "https://github.com/"
+      },
+      {
+        "title": "Web Site Example",
+        "img": "https://cdn.pixabay.com/photo/2017/12/13/18/04/networks-3017395_1280.jpg",
+        "link": "https://github.com/"
+      },
+      {
+        "title": "App Example",
+        "img": "https://cdn.pixabay.com/photo/2014/09/15/13/14/whatsapp-446995_1280.jpg",
+        "link": "https://github.com/"
+      },
+      {
+        "title": "Web Design",
+        "img": "https://cdn.pixabay.com/photo/2015/07/15/08/16/web-845805_1280.jpg",
+        "link": "https://github.com/"
+      },
+      {
+        "title": "Multiplataform App Example",
+        "img": "https://cdn.pixabay.com/photo/2022/10/25/09/19/platform-7545309_1280.png",
+        "link": "https://github.com/"
+      }
     ]
   }
       
