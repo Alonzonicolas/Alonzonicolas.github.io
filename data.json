@@ -17,11 +17,7 @@
   },
   "email": "clarence.nichols@example.com",
   "phone": "(272) 790-0888",
-  "picture": {
-    "large": "https://randomuser.me/api/portraits/men/75.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
-  },
+  "picture": "https://randomuser.me/api/portraits/men/75.jpg",
   "summary": "I am a programmer with experience in developing web and mobile applications. I enjoy working in teams and learning new things. I am a responsible and committed person in my work.",
     "skills": [
       "Web application development with HTML, CSS, JavaScript and frameworks such as React and Angular",

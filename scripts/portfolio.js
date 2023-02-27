@@ -2,7 +2,7 @@ fetch('data.json')
   .then(response => response.json())
   .then(data => {
 
-    document.getElementById('nav-img-profile').src = data.picture.thumbnail;
+    document.getElementById('nav-img-profile').src = data.picture;
 
     data.portfolio.forEach(element => {
         const card = document.createElement('div');

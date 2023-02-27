@@ -64,3 +64,86 @@ body {
   align-items: center;
   color: white;
 }
+
+.button_float {
+  float: right;
+  margin: 0 !important;
+}
+
+.button_edition:hover {
+  font-size: large;
+}
+
+.button_edition {
+  color: white;
+  background-color: transparent;
+  border: 1px solid white;
+  border-radius: 5px;
+  margin-left: 5px !important;
+}
+
+.hidden {
+  display: none;
+}
+
+#summary, #profile, #contact, #education, #experience, #skills, #languages {
+  padding: 1rem 0;
+}
+
+#contact ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+
+#profile-img {
+  width: 200px;
+  margin: 1rem;
+}
+
+#about {
+  padding: 8rem 5rem;
+  font-size: larger;
+}
+
+#home {
+  padding: 8rem 5rem;
+}
+
+textarea {
+  width: 98%;
+}
+
+#contact label {
+  width: 5em;
+}
+
+#education label {
+  width: 10rem;
+}
+
+#education>div, #experience>div {
+  margin: 2rem 0rem;
+  padding-left: 3rem;
+}
+
+#confirm {
+  margin-bottom: 3rem !important;
+}
+
+
+@media only screen and (max-width: 990px) {
+
+  #about {
+    padding: 3rem 1rem;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+
+  h1 {
+    font-size: 5rem;
+  }
+
+}
